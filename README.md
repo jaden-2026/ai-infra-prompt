@@ -1,5 +1,6 @@
 # ai-infra-prompt
 This is a prompt for building an AI-Infra platform via vibe-coding. Feel free to star it. It works seamlessly with Qoder, Cursor, Codex, Trae and so on.
+这个是一个通过vibe-coding创建ai-infra的prompt，欢迎star，支持通过Qoder、Cursor、Codex、Trea
 # AI-Infra
 
 > 面向异构算力集群的私有化 AI 基础设施平台 —— 统一管理 GPU/NPU 资源、任务调度、监控告警与多租户计费。
