@@ -13,8 +13,8 @@
 ```
 
 ## 前端
-开发语言：Typescript
-组件库：Ant Design + Vite + React Router
++ 开发语言：Typescript
++ 组件库：Ant Design + Vite + React Router
 ---
 
 ## 目录
