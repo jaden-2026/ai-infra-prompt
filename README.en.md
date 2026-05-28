@@ -2,7 +2,7 @@
 
 > A self-hosted AI infrastructure platform for heterogeneous compute clusters — unified management of GPU/NPU resources, job scheduling, monitoring, and multi-tenant billing.
 
-简体中文 · [English](./README.en.md)
+[简体中文](./README.md)  · [English](./README.en.md)
 
 ---
 
