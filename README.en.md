@@ -1,6 +1,7 @@
 # AI-Infra
 
 > A self-hosted AI infrastructure platform for heterogeneous compute clusters — unified management of GPU/NPU resources, job scheduling, monitoring, and multi-tenant billing.
+> This is a prompt for building an AI-Infra platform via vibe-coding. Feel free to star it. It works seamlessly with Qoder, Cursor, Codex, Trae and so on.
 
 [简体中文](./README.md)  · English
 
